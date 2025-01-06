@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = external-services@adityakotian.com
+	name = Aditya Kotian
